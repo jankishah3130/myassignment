@@ -1,0 +1,7 @@
+length=int(input("enter the length: "))
+width=int(input("enter the width: "))
+hypotenuse=int(input("enter the hypotenuse: "))
+area_of_triangle=((0.5)*length*width)
+perimeter_of_triangle=(length+width+hypotenuse)
+print(f'area of triangle:{area_of_triangle}')
+print(f'perimeter of triangle:{perimeter_of_triangle}')

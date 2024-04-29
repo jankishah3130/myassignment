@@ -1,0 +1,7 @@
+length=int(input("enter the length: "))
+volume_of_cube=(length**3)
+CSA_of_cube=(4*(length**2))
+TSA_of_cube=(6*(length**2))
+print(f'volume of cube:{volume_of_cube}')
+print(f'CSA of cube:{CSA_of_cube}')
+print(f'TSA of cube:{TSA_of_cube}')

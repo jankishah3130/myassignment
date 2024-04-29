@@ -1,0 +1,5 @@
+length=int(input("enter the length: "))
+area_of_square=(length**2)
+perimeter_of_square=(4*length)
+print(f'area of square:{area_of_square}')
+print(f'perimeter of square:{perimeter_of_square}')

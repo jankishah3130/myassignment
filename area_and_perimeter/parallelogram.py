@@ -1,0 +1,7 @@
+length=int(input("enter the length: "))
+width=int(input("enter the width: "))
+height=int(input("enter the height: "))
+area_of_parallelogram=(width*height)
+perimeter_of_parallelogram=2*(length+width)
+print(f'area of parallelogram:{area_of_parallelogram}')
+print(f'perimeter of parallelogram:{perimeter_of_parallelogram}')
